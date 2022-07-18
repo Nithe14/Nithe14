@@ -6,8 +6,7 @@
     - Filmmaking
     - Music
     - Gaming
-- 👨🏻‍🎓 I’m currently studying Cybersecurity
-- 🌱 I'm currently learning anomaly detection in systems logs
+- 🌱 I'm currently learning Rust
 - 📫 You can reach me by imnithe@gmail.com
 
 <!---
