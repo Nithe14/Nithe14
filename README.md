@@ -6,7 +6,6 @@
     - Filmmaking
     - Music
     - Gaming
-- 🌱 I'm currently learning Rust
 - 📫 You can reach me by imnithe@gmail.com
 
 <!---
