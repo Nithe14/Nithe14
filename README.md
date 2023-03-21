@@ -13,19 +13,19 @@
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="400" height="1">
 <p> 
-<small>
+<large>
 LOVE
-</small>
+</large>
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="400" height="1">
 <p> 
-<small>
+<large>
 HATE
-</small>
+</large>
 </p>
 </th>
 </tr>
