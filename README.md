@@ -33,10 +33,12 @@ HATE
 <td align="center">
 <a href="https://www.rust-lang.org/learn" ><img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" width="55px"></a>
 <a href="https://archlinux.org/" ><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="40px"></a>
+<a href="https://www.vim.org/" ><img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" width="40px"></a>
 <a href="https://openid.net/connect/" ><img src="https://www.dreamfactory.com/assets/images/logos/integration/openid.png" width="40px"></a>
 <a href="https://www.vaultproject.io/" ><img src="https://www.nicepng.com/png/full/827-8272881_vault-logo-black-and-white-hashicorp-vault-logo.png" width="40px"></a>
 <a href="https://oauth.net/2/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/800px-Oauth_logo.svg.png" width="40px"></a>
 <a href="https://www.keycloak.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" width="40px"></a>
+<a href="https://www.notion.so/" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35px"></a>
 <a href="https://www.ansible.com/" ><img src="https://sloopstash.com/assets/image/training/ansible/icon.svg" width="40px"></a>
 <a href="https://deno.land/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/2048px-Deno_2021.svg.png" width="40px"></a>
 <a href="https://www.docker.com/" ><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="45px"></a>
