@@ -33,7 +33,7 @@ HATE
 <td align="center">
 <a href="https://www.rust-lang.org/learn" ><img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" width="55px"></a>
 <a href="https://archlinux.org/" ><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="40px"></a>
-<a href="https://www.vim.org/" ><img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" width="40px"></a>
+<a href="https://neovim.io/" ><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png" width="40px"></a>
 <a href="https://openid.net/connect/" ><img src="https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Academy/oidc%20logo.png?width=300&name=oidc%20logo.png" width="40px"></a>
 <!--<a href="https://www.vaultproject.io/" ><img src="https://www.nicepng.com/png/full/827-8272881_vault-logo-black-and-white-hashicorp-vault-logo.png" width="40px"></a>-->
 <a href="https://oauth.net/2/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/800px-Oauth_logo.svg.png" width="40px"></a>
