@@ -50,11 +50,6 @@ HATE
 
 </div>
     <h2> Reach me </h2>
-  <a href="mailto:imnithe@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=imnithe&logo=gmail&label=&color=white&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=im_nithe&logo=discord&label=&color=white&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <a href="mailto:imnithe@gmail.com"><img src="https://img.shields.io/static/v1?message=imnithe&logo=gmail&label=&color=white&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="gmail logo"  /></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/static/v1?message=im_nithe&logo=discord&label=&color=white&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <br>
 </div>
