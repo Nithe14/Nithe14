@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @Nithe14
-- 👀 I’m interested in: 
-    - Web authentication and authorization
-    - Linux
-    - Photography
-    - Filmmaking
-    - Music
-    - Gaming
-- 📫 You can reach me by imnithe@gmail.com
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nithe14&theme=onedark&line_height=40&hide=css,html"/> </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithe14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&disable_animations=false&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithe14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&hide=css,html" height="200" alt="languages graph"  />
+</div>
 
+<div align="center">
 <table>
 <tr>
 <th align="center">
@@ -35,26 +30,25 @@ HATE
 <a href="https://archlinux.org/" ><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="40px"></a>
 <a href="https://neovim.io/" ><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png" width="40px"></a>
 <a href="https://openid.net/connect/" ><img src="https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Academy/oidc%20logo.png?width=300&name=oidc%20logo.png" width="40px"></a>
-<!--<a href="https://www.vaultproject.io/" ><img src="https://www.nicepng.com/png/full/827-8272881_vault-logo-black-and-white-hashicorp-vault-logo.png" width="40px"></a>-->
 <a href="https://oauth.net/2/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/800px-Oauth_logo.svg.png" width="40px"></a>
 <a href="https://www.keycloak.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" width="40px"></a>
 <a href="https://www.notion.so/" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35px"></a>
-<!--<a href="https://www.ansible.com/" ><img src="https://sloopstash.com/assets/image/training/ansible/icon.svg" width="40px"></a>-->
-<!--<a href="https://deno.land/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/2048px-Deno_2021.svg.png" width="40px"></a>-->
-<!--<a href="https://www.docker.com/" ><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="45px"></a>-->
 <a href="https://mytoken.data.kit.edu/" ><img src="https://mytoken-docs.data.kit.edu/img/mytoken.png" width="80px"></a>
-  
 </td>
 <td align="center">
 <a href="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-cute-shit-clipart-with-happy-face-png-image_6107578.png" ><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="50px"></a>
 <a href="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-cute-shit-clipart-with-happy-face-png-image_6107578.png" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png" width="30px"></a>
-  
 </td>
 </tr>
-
 </table>
-
-<!---
-Nithe14/Nithe14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+<div align="center">
+    <h2> Reach me </h2>
+  <a href="mailto:imnithe@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=imnithe&logo=gmail&label=&color=white&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=im_nithe&logo=discord&label=&color=white&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <br>
+</div>
