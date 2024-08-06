@@ -25,7 +25,7 @@ HATE
 </tr>
 <tr>
 <td align="center">
-<a href="https://www.rust-lang.org/learn" ><img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" width="55px"></a>
+<a href="https://www.rust-lang.org/learn" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" width="55px"></a>
 <a href="https://archlinux.org/" ><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="40px"></a>
 <a href="https://neovim.io/" ><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png" width="40px"></a>
 <a href="https://openid.net/connect/" ><img src="https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Academy/oidc%20logo.png?width=300&name=oidc%20logo.png" width="40px"></a>
